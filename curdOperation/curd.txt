@@ -1,2 +1,0 @@
-i want to dd a new project for curd operations.
-it is new line in this file.

@@ -1,2 +1,0 @@
-it is 2nd file.
-it is 2nd file but i added new line.
